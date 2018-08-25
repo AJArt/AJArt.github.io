@@ -17,7 +17,7 @@ p{
 
 #titleheader {
     height: 300px;
-    width: 1200px;
+    width: 100%;
     background-image: url("tRex_header_final.jpg");
     margin: 0 auto;
 }
